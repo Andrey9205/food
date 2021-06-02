@@ -39,7 +39,7 @@ window.addEventListener('DOMContentLoaded', () => {
 		}
 	});
 
-	//Timer
+	//Timer data
 
 	const deadline = '2021-06-30';
 
